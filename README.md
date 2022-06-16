@@ -4,4 +4,4 @@ This course introduced me to modern **JavaScript**-based web development. The ma
 
 Exercises for parts 0, 1 & 2.
 
-![](https://github.com/TeemuVolanen/fullstack-course-012/maidentiedot_sivusto.gif)
+![](https://github.com/TeemuVolanen/fullstack-course-012/blob/main/maidentiedot_sivusto.gif)
